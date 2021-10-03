@@ -4,15 +4,16 @@ header{
     width:1000px;
 }
 #wrapper{
+    width: 1000px;
     display: flex;
 }
 #main{
     background-color: #ccffcc;
-    width: 700px;
+    width: 70%;
 }
 #menu{
     background-color: #ccccff;
-    width: 300px;
+    width: 30%;
 }
 footer{
     width: 1000px;
